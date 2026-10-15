@@ -4,5 +4,25 @@ body {
 }
 header {
     background-color: #f3df08;
+    div {
+        background-color: #f30895;
+    }
+}
+main {
+    background-color: #08f333;
     color: #0f0f0f;
+    div {
+        background-color: #f308b0;
+        padding: 11px;
+    }
+    aside {
+        background-color: #f308b0;
+        padding: 11px;
+        button {
+            background-color: #090909;
+            padding: 11px;
+            color: #f3f3f3;
+        }
+    }
+
 }
