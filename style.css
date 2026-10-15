@@ -24,5 +24,10 @@ main {
             color: #f3f3f3;
         }
     }
+footer {
+    background-color: #4b08f3;
+    div {
+        background-color: #f308a9;
+    }
 
 }
